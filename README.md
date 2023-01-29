@@ -6,6 +6,3 @@ I was tasked to create a database, read an XML file which contained infromation 
 ## Background Information
 
 The history included song type, titles, artists, length, albums and more.
-
-## Credits
-The task was done after taking a course on Python from **The University of Michigan on Coursera**
